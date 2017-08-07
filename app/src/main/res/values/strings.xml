@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BScanner</string>
+    <string name="welcomeText">Welcome To BScanner</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission. The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Barcode Reader Sample</string>
+    <string name="barcode_header">Click &quot;Scan&quot; to scan a barcode or text</string>
+    <string name="read_barcode">Read Barcode</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="flash">Use Flash</string>
+    <string name="barcode_success">Barcode read successfully</string>
+    <string name="barcode_failure">No barcode captured</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
+    <string name="scanButton">Scan</string>
+    <string name="productTitle">%1$s</string>
+    <string name="productPrice">Price: %1$s</string>
+    <string name="productLink">%1$s</string>
+    <string name="imageDescription">%1$s</string>
+    <string name="barcode_value">The barcode is: %1$s</string>
+    <string name="inputButton">Manually Insert</string>
+    <string name="ask_for_input">Please, enter or check your product code:</string>
+    <string name="topshop_hint"><b>Topshop: </b>The product code is <b>bold</b> letters/number above or under the barcode.</string>
+    <string name="zara_hint"><b>Zara: </b>The product code is numbers after <b>ART.:</b></string>
+    <string name="searchButton">search</string>
+    <string name="input_value">product code</string>
+</resources>
